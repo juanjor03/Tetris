@@ -1,5 +1,7 @@
 ## Tetris
 
+Autor : Juan José Rodríguez Moreno
+
 ### Objetivo
 
 El proyecto de tetris tiene como propósito repasar la programación estructurada, para dar una buena base a la programación orientada objetos.
