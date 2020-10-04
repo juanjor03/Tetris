@@ -25,5 +25,5 @@ Además el arreglo está asociado a una variable tipo boolean para que cuando to
  
 ### Conclusiones 
 
--Al juego claramente le faltan los tetrominos definidos con sus respectivas rotaciones, pero al actualizar el código a programación estructurada toma más de tiempo el adaptarlo a esta. 
+- Al juego claramente le faltan los tetrominos definidos con sus respectivas rotaciones, pero al actualizar el código a programación estructurada toma más de tiempo el adaptarlo a esta. 
 
