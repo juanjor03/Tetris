@@ -4,7 +4,7 @@
 
 El proyecto de tetris tiene como propósito repasar la programación estructurada, para dar una buena base a la programación orientada objetos.
 
-#Descripción del juego
+### Descripción del juego
 
 El juego consiste en apilar bloques unitarios de tal forma que se configure una línea horizontal para que posteriormente desaparezca tal línea.
 
